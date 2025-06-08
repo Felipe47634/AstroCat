@@ -1,0 +1,6 @@
+@Mi_Api_AstroCat_HostAddress = http://localhost:5056
+
+GET {{Mi_Api_AstroCat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
